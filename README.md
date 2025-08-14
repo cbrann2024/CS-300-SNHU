@@ -1,2 +1,9 @@
 # CS-300-SNHU
 DSA; Ananlysis and Design
+
+Herein lies the files as required of CS 300 ... from now until time immemorial to come.... 
+
+These files are the result of late nights ... early mornings  ...  research and wild guesses   ....
+I hope they help you find your way to what you are looking for. 
+
+More to come ... 
